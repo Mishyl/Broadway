@@ -3,10 +3,13 @@ body{
   font-family: Helvetica;
 }
 
-nav{
-  background-image: url('resources/images/the-flatironbuilding.png');
+.home{
+  background-image:url('resources/images/the-flatironbuilding.png');
   font-size: 18px
   color:white;
+}
+h1{
+  font-weight:bold;
 }
 h2{
   font-size: 32px;
